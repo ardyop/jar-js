@@ -8,3 +8,6 @@
 
 - [@Ardy](https://www.github.com/ardyop) <Owner>
 
+## For Help
+
+- Join Discord For Help [Ardy_hub](https://dsc.gg/ardy)
